@@ -3,10 +3,10 @@ const app = express();
 app.use(express.json());
 
 let students = [
-{id: 1, name: "alice"},
-{id: 2, name: "Bob"},
-{id: 3, name: "Charlie"},
-{id: 4, name: "Diana"},
+{id: 1, name: "Kurt"},
+{id: 2, name: "Slash"},
+{id: 3, name: "Robert"},
+{id: 4, name: "Michael"},
 {id: 5, name: "Ethan"}
 ]
 
