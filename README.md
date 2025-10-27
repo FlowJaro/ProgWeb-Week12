@@ -1,4 +1,6 @@
-# ProgWeb-Semana12
-# Karen Yineth Ibarra Guzman 
-  * **Codigo:**  408965
-  * **Enlace video:**
+# ProgWeb-Week12
+
+* Luis Miguel Lasso Mesa
+* ID: 408327
+* Tecnologia en desarrollo de software
+* Link video:
